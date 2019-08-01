@@ -1,0 +1,14 @@
+{
+    "name": "alex/querybuilder",
+    "description": "sql query builder",
+    "type": "library",
+    "license": "none",
+    "authors": [
+        {
+            "name": "Alex",
+            "email": "alternativa96@inbox.ru"
+        }
+    ],
+    "minimum-stability": "alpha",
+    "require": {}
+}
